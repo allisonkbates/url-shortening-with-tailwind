@@ -21,6 +21,7 @@ module.exports = {
       colors: {
         'light-gray': '#9E9AA7',
         'bright-teal': '#2ACFCF',
+        'dark-purple': '#34313D',
       }
     }
   },

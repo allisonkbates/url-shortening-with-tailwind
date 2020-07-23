@@ -1,11 +1,3 @@
-import Link from 'next/link'
-
-const links = [
-	{ href: '#', label: 'GitHub' },
-	{ href: '#', label: 'Docs' },
-	{ href: '#', label: ''}
-]
-
 export default function Nav() {
 	return (
     <nav className="flex p-8 md:py-16 md:px-20 lg:px-40 space-x-4 justify-between">

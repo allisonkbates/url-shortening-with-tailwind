@@ -6,9 +6,6 @@ export default function IndexPage() {
     <div>
       <Nav />
       <Intro />
-      <div className="hero">
-        <h1 className="title">Next.js + Tailwind CSS</h1>
-      </div>
     </div>
   )
 }

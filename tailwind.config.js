@@ -2,6 +2,9 @@ module.exports = {
   purge: ['./components/**/*.{js,ts,jsx,tsx}', './pages/**/*.{js,ts,jsx,tsx}'],
   theme: {
     screens: {
+      'xs': '450px',
+      // => @media (min-width: 375px) { ... }
+
       'sm': '640px',
       // => @media (min-width: 640px) { ... }
 

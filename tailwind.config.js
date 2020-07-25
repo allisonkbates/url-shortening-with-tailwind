@@ -25,7 +25,13 @@ module.exports = {
         'light-gray': '#9E9AA7',
         'bright-teal': '#2ACFCF',
         'dark-purple': '#34313D',
-      }
+      },
+      spacing: {
+        '72': '18rem',
+        '84': '21rem',
+        '96': '24rem',
+        '108': '28rem',
+      },
     }
   },
   variants: {},
